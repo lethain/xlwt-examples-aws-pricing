@@ -1,0 +1,7 @@
+.Python
+*.xls
+*.pyc
+*~
+bin/
+include/
+lib/
